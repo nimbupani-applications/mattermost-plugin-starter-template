@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/nimbupani-applications/mattermost-plugin-starter-template
 
 go 1.22.0
 
